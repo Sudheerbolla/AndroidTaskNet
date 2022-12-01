@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">ImageLoader</string>
+    <string name="previous_image_group">Previous\nGroup</string>
+    <string name="next_image_group">Next\nGroup</string>
+    <string name="no_data_from_the_server">Error getting Data from the Server</string>
+    <string name="error_getting_data_from_api">Error Getting data from API</string>
+    <string name="retry">Retry</string>
+
+</resources>
